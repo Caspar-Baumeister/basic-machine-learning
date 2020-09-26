@@ -1,2 +1,0 @@
-print("tictaktoe2222")
-
